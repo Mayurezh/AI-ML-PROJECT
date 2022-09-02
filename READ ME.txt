@@ -1,0 +1,5 @@
+	Requriments to use application
+	1. Have Streamlit or download it using this cmd command "pip install streamlit"
+	2. Have any internet browser like chrome, opera,etc
+
+	
